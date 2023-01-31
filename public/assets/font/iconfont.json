@@ -1,0 +1,51 @@
+{
+  "id": "3833128",
+  "name": "configUI",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "991655",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "3538379",
+      "name": "删除",
+      "font_class": "shanchu1",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "5392465",
+      "name": "增加",
+      "font_class": "zengjia",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "8073537",
+      "name": "提示",
+      "font_class": "tips",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "11495007",
+      "name": "交换",
+      "font_class": "jiaohuan",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "16287374",
+      "name": "上箭头",
+      "font_class": "xialajiantou1",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}

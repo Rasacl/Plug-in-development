@@ -1,0 +1,73 @@
+.DecoratorConfig {
+  width: 320px !important;
+}
+.DecoratorConfig .drawerclass {
+  width: 320px !important;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-input-number {
+  width: 110px !important;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-select {
+  width: 56px !important;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-select .ivu-select-dropdown .ivu-select-dropdown-list .ivu-select-item {
+  margin: 0;
+  line-height: normal;
+  padding: 5px 8px;
+  clear: both;
+  font-size: 12px!important;
+  list-style: none;
+  cursor: pointer;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-input-wrapper {
+  width: 106px !important;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .slider {
+  width: 200px !important;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .slider .Sliderit .rgclass {
+  display: flex;
+  flex-direction: column;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .slider .Sliderit .silclass .slider .ivu-input-number {
+  width: 40px !important;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .slider .Sliderit .silclass .slider .ivu-slider-wrap {
+  height: 6px;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .slider .Sliderit .silclass .slider .ivu-slider-wrap .ivu-slider-button-wrap {
+  top: -4px;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .ivu-form-item .ivu-form-item-content .slider .Sliderit .silclass .uint {
+  margin-left: 8px;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .config-dec-indexblock {
+  width: 310px !important;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .config-dec-indexblock .ivu-form .ivu-form-item .ivu-form-item-content .ivu-select {
+  width: 56px !important;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .config-dec-indexblock .ivu-form .ivu-form-item .ivu-form-item-content .ivu-select .ivu-select-dropdown .ivu-select-dropdown-list .ivu-select-item {
+  margin: 0;
+  line-height: normal;
+  padding: 5px 8px;
+  clear: both;
+  font-size: 12px!important;
+  list-style: none;
+  cursor: pointer;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.DecoratorConfig .drawerclass .ivu-form .ivu-form-item .ivu-form-item-content .config-dec-indexblock .ivu-form .ivu-form-item .ivu-form-item-content .ivu-input-wrapper {
+  width: 110px !important;
+}
+.DecoratorConfig .drawerclass .content .ivu-form .ivu-form-item .ivu-form-item-content .ivu-select {
+  margin-top: 9px;
+}
