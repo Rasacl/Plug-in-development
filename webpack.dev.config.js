@@ -2,6 +2,7 @@ const path = require("path");
 const ESLintPlugin = require('eslint-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { VueLoaderPlugin } = require('vue-loader');
+const CopyPlugin = require("copy-webpack-plugin");
 
 module.exports = {
     entry: "./src/main.js",
@@ -53,6 +54,9 @@ module.exports = {
             context: path.resolve(__dirname, "src")
         }),
         new VueLoaderPlugin(),
+        // new CopyPlugin([
+        //     {from: path.resolve(__dirname, 'configTest', 'font'), to: 'debug/font'}
+        // ]),
         new HtmlWebpackPlugin({
             template: 'index.html', //指定html模板文件
             inject: 'head', //js插入的位置，插入head中也会自动补defer="defer"属性以保证在页面加载后执行js，如果考虑兼容性可改成body

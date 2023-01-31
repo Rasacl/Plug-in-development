@@ -42,8 +42,7 @@ const components = [
     SignConfig
 ];
 
-console.log(Vue,12323)
-const install = function () {
+const install = function (Vue) {
     installKissUI(Vue)
     components.forEach(component => {
         Vue.component(component.name, component);
@@ -52,7 +51,7 @@ const install = function () {
 
 if (typeof window != 'undefined' && window.Vue) {
     installKissUI(window.Vue)
-    install();
+    install(window.Vue);
 }
 
 export default {

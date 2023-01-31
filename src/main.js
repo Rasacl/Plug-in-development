@@ -1,9 +1,8 @@
 import Vue from 'vue';
 import App from "./App.vue";
 import configUI from '../configTest/config'
-// import KissUI from '@uino/kiss-ui'
+// import '../configTest/font'
 Vue.use(configUI);
-// Vue.use(KissUI)
 
 new Vue({
   el: '#app',
